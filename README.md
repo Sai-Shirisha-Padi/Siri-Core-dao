@@ -38,7 +38,8 @@ After deploying:
 * Role-based access using OpenZeppelin's AccessControl.
 * Chainlink VRF integration for random proposal ordering.
 
-  Contract Details:
+
+  # Contract Details:
   0x373bbab85119b7223f6e65d0478f152387842937ce388c2cb5c0d98096494ed3
 
   ![image](https://github.com/user-attachments/assets/a1e3e19c-30b9-4576-8eff-f3457328f9cf)
